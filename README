@@ -1,0 +1,14 @@
+readme
+biblioteca para os gráficos
+
+npm install recharts
+
+npm install mysql2
+
+
+
+DB_HOST=edumysql.acesso.rj.senac.br
+DB_USER=20252_prjint5
+DB_PASS=Senac@2025
+DB_NAME=nome_do_banco   # aqui você precisa saber o nome exato do banco criado
+PORT=4009
